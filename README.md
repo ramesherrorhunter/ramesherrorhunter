@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! Ramesh here, working as a DevOps Engineer in India.
+Hi 👋! Ramesh here, working as a DevOps Engineer in India. Veteran in Cloud-Native Infrastructure & Containerization | CI/CD Architect | Kubernetes and Docker Pro | Terraform & Automation Enthusiast | Architect of Scalable, Secure, and Resilient Systems
 
 
 ## 🌐 Socials:
