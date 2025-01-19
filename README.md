@@ -44,7 +44,7 @@ Let’s collaborate and build a future of smarter, faster, and more resilient te
 - ⚡ Fun fact: I use yml over yaml  
 
 
-</td><td valign="top" width="50%">
+</td>
 
 </table>  
 
