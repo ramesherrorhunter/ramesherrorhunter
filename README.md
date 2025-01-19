@@ -107,4 +107,3 @@ Let’s collaborate and build a future of smarter, faster, and more resilient te
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
