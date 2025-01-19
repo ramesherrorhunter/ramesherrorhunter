@@ -7,13 +7,13 @@
 
 
 ### Let's Connect !!  
-<a href="https://linkedin.com/in/RameshLodh" target="_blank">
+<a href="https://www.linkedin.com/in/ramesh-lodh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/ramesherrorhunter" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/ramesh-lodh" target="_blank">
+<a href="https://gitlab.com/RameshLodh" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
   
