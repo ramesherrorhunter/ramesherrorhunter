@@ -46,9 +46,7 @@ Let’s collaborate and build a future of smarter, faster, and more resilient te
 
 </td><td valign="top" width="50%">
 
-
-
-</td></table>  
+</table>  
 
 <br/>  
 
